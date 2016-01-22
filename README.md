@@ -1,4 +1,6 @@
 # ezRAD_protocol
+**Authored by Ingrid Knapp, also see the link:** 
+http://ingridknapp.weebly.com/current-research.html
 
 ToBo lab EzRAD Protocol-v2.0-gel free
  
